@@ -9,9 +9,7 @@
 
 <h1>Data Structures in Python</h1>
 
-<p>This repository contains implementations of fundamental data structures in Python. These structures are the backbone of many algorithms and are essential in solving complex problems efficiently. Below is a list of the data structures implemented, with a brief summary and usage examples.</p>
-
-<h2>Data Structures Implemented:</h2>
+<p>Repository with implementations of fundamental data structures in Python. These structures are the backbone of many algorithms and are essential in solving complex problems efficiently. Below is a list of the data structures implemented, with a brief summary and usage examples.</p>
 
 <h3>1. Stack</h3>
 <p>A Stack is a linear data structure that follows the <strong>Last In, First Out (LIFO)</strong> principle. Elements can only be added or removed from the top of the stack.</p>
@@ -31,12 +29,10 @@
 
 <h4>Methods:</h4>
 <ul>
-    <li><code>enqueue(item)</code>: Add an item to the rear of the queue.</li>
-    <li><code>dequeue()</code>: Remove and return the front item from the queue.</li>
-    <li><code>peek()</code>: Get the front item without removing it.</li>
-    <li><code>is_empty()</code>: Check if the queue is empty.</li>
-    <li><code>size()</code>: Return the number of elements in the queue.</li>
-    <li><code>clear()</code>: Empty the queue.</li>
+    <li><code>enqueue</code>: Add an item to the rear of the queue.</li>
+    <li><code>dequeue</code>: Remove and return the front item from the queue.</li>
+    <li><code>peek</code>: Get the front item without removing it.</li>
+
 </ul>
 
 <h3>3. Linked List</h3>
@@ -50,11 +46,11 @@
 
 <h4>Methods (Singly Linked List):</h4>
 <ul>
-    <li><code>add_first(item)</code>: Add an item at the beginning of the list.</li>
-    <li><code>add_last(item)</code>: Add an item at the end of the list.</li>
-    <li><code>remove_first()</code>: Remove and return the first item from the list.</li>
-    <li><code>remove_last()</code>: Remove and return the last item from the list.</li>
-    <li><code>find(item)</code>: Search for an item in the list.</li>
+    <li><code>add_first</code>: Add an item at the beginning of the list.</li>
+    <li><code>add_last</code>: Add an item at the end of the list.</li>
+    <li><code>remove_first</code>: Remove and return the first item from the list.</li>
+    <li><code>remove_last</code>: Remove and return the last item from the list.</li>
+    <li><code>find</code>: Search for an item in the list.</li>
 </ul>
 
 <h3>4. Binary Search Tree (BST)</h3>
@@ -62,10 +58,10 @@
 
 <h4>Methods:</h4>
 <ul>
-    <li><code>insert(item)</code>: Insert an item into the BST.</li>
-    <li><code>find(item)</code>: Check if an item exists in the BST.</li>
-    <li><code>delete(item)</code>: Remove an item from the BST.</li>
-    <li><code>inorder_traversal()</code>: Traverse the tree in sorted order.</li>
+    <li><code>insert</code>: Insert an item into the BST.</li>
+    <li><code>find</code>: Check if an item exists in the BST.</li>
+    <li><code>delete</code>: Remove an item from the BST.</li>
+    <li><code>inorder_traversal</code>: Traverse the tree in sorted order.</li>
 </ul>
 
 <h3>5. Hash Table</h3>
@@ -73,10 +69,10 @@
 
 <h4>Methods:</h4>
 <ul>
-    <li><code>put(key, value)</code>: Insert or update a key-value pair.</li>
-    <li><code>get(key)</code>: Retrieve the value associated with a key.</li>
-    <li><code>remove(key)</code>: Remove a key-value pair.</li>
-    <li><code>contains_key(key)</code>: Check if a key exists in the table.</li>
+    <li><code>put</code>: Insert or update a key-value pair.</li>
+    <li><code>get(</code>: Retrieve the value associated with a key.</li>
+    <li><code>remove</code>: Remove a key-value pair.</li>
+    <li><code>contains_key</code>: Check if a key exists in the table.</li>
 </ul>
 
 
