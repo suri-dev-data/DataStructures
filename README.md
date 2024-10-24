@@ -16,12 +16,12 @@
 
 <h4>Methods:</h4>
 <ul>
-    <li><code>push(item)</code>: Add an item to the top of the stack.</li>
-    <li><code>pop()</code>: Remove and return the top item from the stack.</li>
-    <li><code>peek()</code>: Get the top item without removing it.</li>
-    <li><code>is_empty()</code>: Check if the stack is empty.</li>
-    <li><code>size()</code>: Return the number of elements in the stack.</li>
-    <li><code>clear()</code>: Empty the stack.</li>
+    <li><code>push</code>: Add an item to the top of the stack.</li>
+    <li><code>pop</code>: Remove and return the top item from the stack.</li>
+    <li><code>peek</code>: Get the top item without removing it.</li>
+    <li><code>is_empty</code>: Check if the stack is empty.</li>
+    <li><code>size</code>: Return the number of elements in the stack.</li>
+    <li><code>clear</code>: Empty the stack.</li>
 </ul>
 
 <h3>2. Queue</h3>
